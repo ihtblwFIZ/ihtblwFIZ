@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 💫 Contact
 <br>
 <div align="left">
-  <a href="https://www.instagram.com/kim_rachel13" target="_blank">
+  <a href="https://www.instagram.com/ihtbly_13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
